@@ -7,5 +7,4 @@ New merge request from the main branch
 ====================
 New merge request from the demo branch
 
-# New change in feature demo branch
 
