@@ -1,4 +1,5 @@
 # merge-demo
 This is feature branch change
 
-This is a demo of merge conflict
+this is demo for the conflict of merge
+
