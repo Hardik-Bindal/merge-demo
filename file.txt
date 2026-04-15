@@ -7,3 +7,4 @@ New merge request from the main branch
 ====================
 New merge request from the demo branch
 
+#A merge conflict in the main branch now
