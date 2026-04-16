@@ -8,5 +8,5 @@ Hello Its sample to study about github merging
 New merge request from the demo branch
 =======
 New merge request from the demo branch
-
+New change in the main branch
 
