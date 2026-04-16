@@ -1,12 +1,1 @@
-Hello Its sample to study about github merging
-
-#merge line from the feature-demo branch
-
-
-New merge request from the main branch
-====================
-New merge request from the demo branch
-
-
-New change in the feature demo branch
 
